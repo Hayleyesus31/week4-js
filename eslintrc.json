@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "camelcase": "error",
+    "no-use-before-define": "error"
+  }
+}
